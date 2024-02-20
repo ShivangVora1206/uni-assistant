@@ -21,9 +21,12 @@ A lazy db file just to store the data fetched, used to compare newer response fr
 #### 2. Navigate to the repo in your terminal
 #### 3. Run `python main.py`
 
-## Color code representation
+## Color Code Representation Of Output
 #### red -> Application not opened yet
 #### green -> Application open
 #### violet -> New / Difference / Token
 #### yellow -> Course Name
 #### blue -> Degree Type
+
+## Note
+The ***difference*** part in the output means this data was not present in the previous response, so it is a ***new data***. Assuming the script is run once a day, the data present in the ***difference*** part is the ***new data*** that has been added in the last 24 hours.
