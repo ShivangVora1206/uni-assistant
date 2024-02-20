@@ -13,3 +13,17 @@ The `main.py` file is the main file which is used to run the application. It fet
 ## local.json
 A lazy db file just to store the data fetched, used to compare newer response from the previous one to identify the difference and see what has changed.
 
+## Sample Output
+![alt text](https://github.com/ShivangVora1206/uni-assistant/blob/main/sample_output/uni-assistant-sample-output.png?raw=true)
+
+## Instructions
+#### 1. Clone this repo
+#### 2. Navigate to the repo in your terminal
+#### 3. Run `python main.py`
+
+## Color code representation
+#### red -> Application not opened yet
+#### green -> Application open
+#### violet -> New / Difference / Token
+#### yellow -> Course Name
+#### blue -> Degree Type
