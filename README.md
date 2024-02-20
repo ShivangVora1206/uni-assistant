@@ -11,5 +11,5 @@ The `filters.py` file has the filters which are used to filter the data fetched 
 The `main.py` file is the main file which is used to run the application. It fetches the data from the uni-assist APIs and displays it.
 
 ## local.json
-A lazy db file just to store the data fetched used to compare newer response from the previous one to identify the difference and see what has changed.
+A lazy db file just to store the data fetched, used to compare newer response from the previous one to identify the difference and see what has changed.
 
