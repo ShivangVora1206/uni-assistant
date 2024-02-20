@@ -22,11 +22,13 @@ A lazy db file just to store the data fetched, used to compare newer response fr
 #### 3. Run `python main.py`
 
 ## Color Code Representation Of Output
-#### red -> Application not opened yet
-#### green -> Application open
-#### violet -> New / Difference / Token
-#### yellow -> Course Name
-#### blue -> Degree Type
+***red -> Application not opened yet***
+***green -> Application open***
+***violet -> New / Difference / Token***
+***yellow -> Course Name***
+***blue -> Degree Type***
 
 ## Note
 The ***difference*** part in the output means this data was not present in the previous response, so it is a ***new data***. Assuming the script is run once a day, the data present in the ***difference*** part is the ***new data*** that has been added in the last 24 hours.
+
+Update the `filters.py` file to add your preferences, the university names need to be the same as written on the uni-assist portal. If the university name is not written correctly, the script will not be able to filter the data for that university.
