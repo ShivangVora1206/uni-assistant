@@ -1,0 +1,1359 @@
+{
+    "totalElements": 468,
+    "data": {
+        "filter": {
+            "abschlussgruppe": [
+                {
+                    "id": 10,
+                    "name": "Art degree"
+                },
+                {
+                    "id": 11,
+                    "name": "Baccalaureate/Certificate"
+                },
+                {
+                    "id": 1,
+                    "name": "Bachelor"
+                },
+                {
+                    "id": 2,
+                    "name": "Diplom"
+                },
+                {
+                    "id": 4,
+                    "name": "Master"
+                },
+                {
+                    "id": 12,
+                    "name": "Meister"
+                },
+                {
+                    "id": 3,
+                    "name": "State examination"
+                },
+                {
+                    "id": 5,
+                    "name": "Teaching degree"
+                },
+                {
+                    "id": 14,
+                    "name": "without degree"
+                }
+            ],
+            "bundesland": [
+                {
+                    "id": 1,
+                    "name": "Baden-Württemberg"
+                },
+                {
+                    "id": 2,
+                    "name": "Bayern"
+                },
+                {
+                    "id": 3,
+                    "name": "Berlin"
+                },
+                {
+                    "id": 4,
+                    "name": "Brandenburg"
+                },
+                {
+                    "id": 6,
+                    "name": "Hamburg"
+                },
+                {
+                    "id": 7,
+                    "name": "Hessen"
+                },
+                {
+                    "id": 8,
+                    "name": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "id": 9,
+                    "name": "Niedersachsen"
+                },
+                {
+                    "id": 10,
+                    "name": "Nordrhein-Westfalen"
+                },
+                {
+                    "id": 11,
+                    "name": "Rheinland-Pfalz"
+                },
+                {
+                    "id": 12,
+                    "name": "Saarland"
+                },
+                {
+                    "id": 13,
+                    "name": "Sachsen"
+                },
+                {
+                    "id": 14,
+                    "name": "Sachsen-Anhalt"
+                },
+                {
+                    "id": 15,
+                    "name": "Schleswig-Holstein"
+                },
+                {
+                    "id": 17,
+                    "name": "Sonstige"
+                },
+                {
+                    "id": 16,
+                    "name": "Thüringen"
+                }
+            ],
+            "semester": [
+                {
+                    "id": 52,
+                    "name": "Winter Semester 2024/2025"
+                }
+            ],
+            "hochschule": [
+                {
+                    "id": 14,
+                    "name": "Bauhaus-Universität Weimar"
+                },
+                {
+                    "id": 160,
+                    "name": "Bucerius Law School"
+                },
+                {
+                    "id": 1009,
+                    "name": "Burg Giebichenstein Kunsthochschule Halle"
+                },
+                {
+                    "id": 82,
+                    "name": "Carl von Ossietzky Universität Oldenburg"
+                },
+                {
+                    "id": 4,
+                    "name": "Christian-Albrechts-Universität zu Kiel"
+                },
+                {
+                    "id": 1087,
+                    "name": "Evangelische Hochschule Berlin"
+                },
+                {
+                    "id": 1026,
+                    "name": "FH Oberösterreich"
+                },
+                {
+                    "id": 220,
+                    "name": "Fachhochschule Südwestfalen"
+                },
+                {
+                    "id": 206,
+                    "name": "Filmuniversität Babelsberg KONRAD WOLF"
+                },
+                {
+                    "id": 44,
+                    "name": "Frankfurt University of Applied Sciences "
+                },
+                {
+                    "id": 2,
+                    "name": "Goethe-Universität Frankfurt"
+                },
+                {
+                    "id": 102,
+                    "name": "Hochschule 21"
+                },
+                {
+                    "id": 537,
+                    "name": "Hochschule Anhalt"
+                },
+                {
+                    "id": 527,
+                    "name": "Hochschule Ansbach"
+                },
+                {
+                    "id": 312,
+                    "name": "Hochschule Darmstadt"
+                },
+                {
+                    "id": 232,
+                    "name": "Hochschule Emden/Leer"
+                },
+                {
+                    "id": 298,
+                    "name": "Hochschule Geisenheim"
+                },
+                {
+                    "id": 1072,
+                    "name": "Hochschule Hamm-Lippstadt"
+                },
+                {
+                    "id": 34,
+                    "name": "Bauhaus-Universität Weimar"
+                },
+                {
+                    "id": 1049,
+                    "name": "Hochschule der Bildenden Künste Saar"
+                },
+                {
+                    "id": 1005,
+                    "name": "Hochschule für Bildende Künste Braunschweig"
+                },
+                {
+                    "id": 471,
+                    "name": "Hochschule für Fernsehen und Film München"
+                },
+                {
+                    "id": 234,
+                    "name": "International Psychoanalytic University Berlin"
+                },
+                {
+                    "id": 1017,
+                    "name": "Julius-Maximilians-Universität Würzburg"
+                },
+                {
+                    "id": 196,
+                    "name": "Otto-von-Guericke-Universität Magdeburg"
+                },
+                {
+                    "id": 363,
+                    "name": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau"
+                },
+                {
+                    "id": 178,
+                    "name": "Technische Hochschule Köln (TH Köln)"
+                },
+                {
+                    "id": 72,
+                    "name": "Technische Hochschule Lübeck"
+                },
+                {
+                    "id": 270,
+                    "name": "Technische Hochschule Ostwestfalen-Lippe"
+                },
+                {
+                    "id": 1069,
+                    "name": "Technische Hochschule Rosenheim"
+                },
+                {
+                    "id": 90,
+                    "name": "Technische Universität Chemnitz (TU)"
+                },
+                {
+                    "id": 528,
+                    "name": "Technische Universität Dortmund"
+                },
+                {
+                    "id": 122,
+                    "name": "Technische Universität Dresden"
+                },
+                {
+                    "id": 318,
+                    "name": "Technische Universität München"
+                },
+                {
+                    "id": 10,
+                    "name": "Universität Greifswald"
+                },
+                {
+                    "id": 36,
+                    "name": "Universität Kassel"
+                },
+                {
+                    "id": 56,
+                    "name": "Universität Paderborn"
+                },
+                {
+                    "id": 208,
+                    "name": "Universität Ulm"
+                },
+                {
+                    "id": 1053,
+                    "name": "Universität zu Köln - VPD"
+                },
+                {
+                    "id": 148,
+                    "name": "Victoria International University of Applied Sciences (HWTK Berlin)"
+                }
+            ]
+        },
+        "list": [
+            {
+                "semesterId": 52,
+                "semesterName": "Winter Semester 2024/2025",
+                "list": [
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 262813,
+                        "hochschuleName": "Technische Hochschule Rosenheim",
+                        "studienfachName": "Advanced Industrial Engineering",
+                        "abschlussName": "Master",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1069,
+                        "standortId": 3811,
+                        "standortName": "Chiemgau",
+                        "bundeslandId": 2,
+                        "studiengangId": 48986,
+                        "studienfachId": 33128,
+                        "studienartId": 12,
+                        "studienformId": 32,
+                        "studientypId": 10,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 4657,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "<p><b><span>Start of studies: </span></b><span>winter semester<b></b></span></p> \n<p><b><span>Course language: </span></b><span>English</span></p> \n<p><span>You can apply for the preliminary review documentation (VPD) all year round and it is valid for one year after issue.</span></p> \n<p><span>You can find information about the degree program here: </span><a href=\"https://www.th-rosenheim.de/en/studies-and-further-education/courses-of-study/masters-degree-programmes/advanced-industrial-engineering\" rel=\"nofollow\"><span>https://www.th-rosenheim.de/en/studies-and-further-education/courses-of-study/masters-degree-programmes/advanced-industrial-engineering</span></a><span></span></p> \n<p><span>Please consider the special application procedure of Rosenheim Technical University of Applied Sciences. Uni-assist generates a preliminary review documentation (VPD) that you must upload together with your online application at TH Rosenheim. You can access the application portal here: </span><a href=\"https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces\" rel=\"nofollow\"><span>https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces</span></a><span></span></p>\n<br>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "Consecutive Master's Course",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Bayern",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            }
+                        ],
+                        "id": 262219,
+                        "hochschuleName": "Technische Universität Dortmund",
+                        "studienfachName": "Advanced Methods in Particle Physics",
+                        "abschlussName": "Master 1 Subject",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 528,
+                        "standortId": 616,
+                        "standortName": "Dortmund",
+                        "bundeslandId": 10,
+                        "studiengangId": 46537,
+                        "studienfachId": 31759,
+                        "studienartId": 12,
+                        "studienformId": 32,
+                        "studientypId": 10,
+                        "zulassungstypId": 2,
+                        "zulassungstypHoeheresFsId": 2,
+                        "abschlussId": 4433,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "Further admission requirements (manueller NC)",
+                        "infotext": "<p><b><span>Please read the information on the following websites carefully! Here you will find information about the tuition fees of the Master's degree program, on scholarship opportunities, the mandatory mobility abroad within the degree program and the schedule of the program.</span></b><span> </span></p> \n<ul> \n <li><a href=\"https://imapp.eu/\" rel=\"nofollow\"><span>Website Advanced Methods in Particle Physics </span></a><span></span></li> \n <li><span>Information on <a href=\"https://imapp.eu/#scholarship\" rel=\"nofollow\">scholarship opportunities</a></span></li> \n <li><a href=\"https://physik.tu-dortmund.de/en/study/courses-and-qualification/international-master-of-particle/\" rel=\"nofollow\">Website Department of Physics</a></li> \n <li><span>Further information about the </span><span><a href=\"https://www.tu-dortmund.de/en/students/degree-programs/advanced-methods-in-particle-physics-832/?tabindex=1&amp;cHash=6ef467b8a35e97a0c56bbc40c54a1f5e\" rel=\"nofollow\">degree program</a></span><span> <span></span></span></li> \n <li><span>Information about the </span><span><a href=\"https://international.tu-dortmund.de/en/international-applicants/application/master/?tabindex=1&amp;cHash=00ac580776a35954366102b899265276\" rel=\"nofollow\">application and the required application documents</a></span><a href=\"https://international.tu-dortmund.de/en/international-students/international-applicants/application/master/\" rel=\"nofollow\"><span> </span></a><span></span></li> \n <li>Information about the <a href=\"https://international.tu-dortmund.de/en/international-applicants/before-the-application/?tabindex=1&amp;cHash=a85f00222d8841c91213ada0ddc57d76\" rel=\"nofollow\">language requirement </a></li> \n</ul> \n<p><b><span>Please note:</span></b><span> This is an English-language Master's degree program. </span></p> \n<ul> \n</ul>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "Further admission requirements (manueller NC)",
+                        "studienformName": "Consecutive Master's Course",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Nordrhein-Westfalen",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            }
+                        ],
+                        "id": 257626,
+                        "hochschuleName": "Fachhochschule Südwestfalen",
+                        "studienfachName": "Advanced (Systems) Engineering and Engineering Management",
+                        "abschlussName": "Master (FH)",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 220,
+                        "standortId": 252,
+                        "standortName": "Soest",
+                        "bundeslandId": 10,
+                        "studiengangId": 50431,
+                        "studienfachId": 33850,
+                        "studienartId": 12,
+                        "studienformId": 32,
+                        "studientypId": 10,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 2841,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "<p>The programme will deepen and broaden the research potential and the knowledge base of graduate engineers. Engineering Bachelor courses especially in electronic, mechanical and manufacturing engineering are the required entry qualification. The MSc will provide advanced specialist training beyond the bachelor studies.</p> \n<p>The course will provide research training in advanced engineering and engineering management. It will equip graduates with the skills to integrate advanced technology into a wide variety of industrial applications and research topics, e.g. control systems design, digital signal processing, advanced production technology.</p> \n<p>The course will incorporate modern engineering technologies and major non-technical (e.g. management studies) elements, as both these areas are important aspects of modern industrial and engineering practice and research.</p>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "Consecutive Master's Course",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Nordrhein-Westfalen",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            }
+                        ],
+                        "id": 261286,
+                        "hochschuleName": "Universität Kassel",
+                        "studienfachName": "Agriculture, Ecology, and Societies",
+                        "abschlussName": "Master",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 36,
+                        "standortId": 40,
+                        "standortName": "Kassel",
+                        "bundeslandId": 7,
+                        "studiengangId": 48770,
+                        "studienfachId": 33050,
+                        "studienartId": 12,
+                        "studienformId": 32,
+                        "studientypId": 10,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 2273,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "Consecutive Master's Course",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Hessen",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 262840,
+                        "hochschuleName": "Julius-Maximilians-Universität Würzburg",
+                        "studienfachName": "Alle Fächer",
+                        "abschlussName": "Bachelor",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1017,
+                        "standortId": 3642,
+                        "standortName": "Würzburg",
+                        "bundeslandId": 2,
+                        "studiengangId": 50383,
+                        "studienfachId": 33820,
+                        "studienartId": 12,
+                        "studienformId": 20,
+                        "studientypId": 10,
+                        "zulassungstypId": 26,
+                        "zulassungstypHoeheresFsId": 26,
+                        "abschlussId": 4831,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 1,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "Admission restrictions unknown",
+                        "infotext": "<p> </p> \n<p><span>Please note the special application procedure at the University of Würzburg. Uni-assist generates a preliminary review document (VPD) of your university entrance qualification. This document has to be submitted together with all other necessary documents when you apply at the University of Wuerzburg. <br></span></p> \n<p><span></span> </p> \n<p><span>Information regarding the application:</span></p> \n<div> \n <span><a href=\"https://www.uni-wuerzburg.de/en/international/studying-in-wuerzburg/degree-programmes/application/\" rel=\"nofollow\">https://www.uni-wuerzburg.de/en/international/studying-in-wuerzburg/degree-programmes/application/</a><br></span> \n</div> \n<div> \n <span><br></span> \n</div> \n<div> \n <span></span> \n <span>You can access the application platform directly over: </span> \n <span><a href=\"https://wuestudy.zv.uni-wuerzburg.de\" rel=\"nofollow\"><span>https://wuestudy.zv.uni-wuerzburg.de</span></a><span>.</span></span> \n</div> \n<div> \n <span><br></span> \n</div>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "Admission restrictions unknown",
+                        "studienformName": "First Degree",
+                        "abschlussgruppeName": "Bachelor",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Bayern",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 262843,
+                        "hochschuleName": "Julius-Maximilians-Universität Würzburg",
+                        "studienfachName": "Alle Fächer",
+                        "abschlussName": "Master",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1017,
+                        "standortId": 3642,
+                        "standortName": "Würzburg",
+                        "bundeslandId": 2,
+                        "studiengangId": 50386,
+                        "studienfachId": 33820,
+                        "studienartId": 12,
+                        "studienformId": 24,
+                        "studientypId": 10,
+                        "zulassungstypId": 26,
+                        "zulassungstypHoeheresFsId": 26,
+                        "abschlussId": 4837,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "Admission restrictions unknown",
+                        "infotext": "<p><span>Please note the special application procedure at the University of Würzburg. Uni-assist generates a preliminary review document (VPD) of your university entrance qualification</span><span>. This document has to be submitted together with all other necessary documents when you apply at the University of Wuerzburg. </span></p> \n<p><span>Information regarding the application procedure, the different deadlines and language proficiencies please find at:</span></p> \n<p><a href=\"https://www.uni-wuerzburg.de/en/international/studying-in-wuerzburg/degree-programmes/application/master-and-llm/\" rel=\"nofollow\"><span>https://www.uni-wuerzburg.de/en/international/studying-in-wuerzburg/degree-programmes/application/master-and-llm/</span></a><span></span></p>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "Admission restrictions unknown",
+                        "studienformName": "Postgraduate Studies",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Bayern",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            }
+                        ],
+                        "id": 262846,
+                        "hochschuleName": "Julius-Maximilians-Universität Würzburg",
+                        "studienfachName": "Alle Fächer",
+                        "abschlussName": "Modul-Studiengang Bachelor",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1017,
+                        "standortId": 3642,
+                        "standortName": "Würzburg",
+                        "bundeslandId": 2,
+                        "studiengangId": 50389,
+                        "studienfachId": 33820,
+                        "studienartId": 12,
+                        "studienformId": 36,
+                        "studientypId": 10,
+                        "zulassungstypId": 26,
+                        "zulassungstypHoeheresFsId": 26,
+                        "abschlussId": 4834,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 1,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "Admission restrictions unknown",
+                        "infotext": "<p><span>Please note the special application procedure at the University of Wuerzburg. Uni-assist generates a preliminary review document (VPD) of your university entrance qualification</span><span>. This document has to be submitted together with all other necessary documents when you apply at the University of Wuerzburg. <br></span></p> \n<p><span></span> </p> \n<p><span><a href=\"https://www.uni-wuerzburg.de/en/international/studying-in-wuerzburg/degree-programmes/application/module-studies/\" rel=\"nofollow\">https://www.uni-wuerzburg.de/en/international/studying-in-wuerzburg/degree-programmes/application/module-studies/</a><br></span></p> \n<p><span></span><span>You can access the application platform directly over: </span><span><a href=\"https://wuestudy.zv.uni-wuerzburg.de\" rel=\"nofollow\"><span>https://wuestudy.zv.uni-wuerzburg.de</span></a></span><span>.<br> <br> </span></p>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "Admission restrictions unknown",
+                        "studienformName": "No Degree",
+                        "abschlussgruppeName": "Bachelor",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Bayern",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            }
+                        ],
+                        "id": 262849,
+                        "hochschuleName": "Julius-Maximilians-Universität Würzburg",
+                        "studienfachName": "Alle Fächer",
+                        "abschlussName": "Modulstudiengang Master",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1017,
+                        "standortId": 3642,
+                        "standortName": "Würzburg",
+                        "bundeslandId": 2,
+                        "studiengangId": 50392,
+                        "studienfachId": 33820,
+                        "studienartId": 12,
+                        "studienformId": 36,
+                        "studientypId": 10,
+                        "zulassungstypId": 26,
+                        "zulassungstypHoeheresFsId": 26,
+                        "abschlussId": 4840,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "Admission restrictions unknown",
+                        "infotext": "<div> \n <span></span> \n <p><span>Please note the special application procedure at the University of Würzburg. Uni-assist generates a preliminary review document (VPD) of your university entrance qualification. This document has to be submitted together with all other necessary documents when you apply at the University of Wuerzburg. </span></p> \n</div> \n<p><span><a href=\"https://www.uni-wuerzburg.de/en/international/studying-in-wuerzburg/degree-programmes/application/module-studies/\" rel=\"nofollow\">https://www.uni-wuerzburg.de/en/international/studying-in-wuerzburg/degree-programmes/application/module-studies/</a></span></p> \n<div> \n <span></span> \n <span>You can access the application platform directly over: </span> \n <span><a href=\"https://wuestudy.zv.uni-wuerzburg.de\" rel=\"nofollow\"><span>https://wuestudy.zv.uni-wuerzburg.de</span></a></span> \n <span>.<br> <br> </span> \n</div>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "Admission restrictions unknown",
+                        "studienformName": "No Degree",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Bayern",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 262852,
+                        "hochschuleName": "Julius-Maximilians-Universität Würzburg",
+                        "studienfachName": "Alle Fächer",
+                        "abschlussName": "Staatsexamen",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1017,
+                        "standortId": 3642,
+                        "standortName": "Würzburg",
+                        "bundeslandId": 2,
+                        "studiengangId": 50395,
+                        "studienfachId": 33820,
+                        "studienartId": 12,
+                        "studienformId": 20,
+                        "studientypId": 10,
+                        "zulassungstypId": 26,
+                        "zulassungstypHoeheresFsId": 26,
+                        "abschlussId": 3732,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 3,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "Admission restrictions unknown",
+                        "infotext": "<p><span>Please note the special application procedure at the University of Wuerzburg. Uni-assist generates a preliminary review document (VPD) of your university entrance qualification. This document has to be submitted with all other necessary documents when you apply at the University of Wuerzburg. <br></span></p> \n<p><span></span><span>You can access the application platform directly over: </span><span><a href=\"https://wuestudy.zv.uni-wuerzburg.de\" rel=\"nofollow\"><span>https://wuestudy.zv.uni-wuerzburg.de</span></a><span>.</span><br></span></p> \n<p><span></span><b><span>EU and EEA Citizens</span></b><span> don’t need a VPD documentations but apply only via </span><span></span><span><a href=\"https://www.hochschulstart.de/\" rel=\"nofollow\">https://www.hochschulstart.de</a>.</span></p>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "Admission restrictions unknown",
+                        "studienformName": "First Degree",
+                        "abschlussgruppeName": "State examination",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Bayern",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            }
+                        ],
+                        "id": 263056,
+                        "hochschuleName": "Universität zu Köln - VPD",
+                        "studienfachName": "all subjects",
+                        "abschlussName": "Master",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1053,
+                        "standortId": 3777,
+                        "standortName": "Köln VPD",
+                        "bundeslandId": 10,
+                        "studiengangId": 44693,
+                        "studienfachId": 30561,
+                        "studienartId": 32,
+                        "studienformId": 66,
+                        "studientypId": 32,
+                        "zulassungstypId": 26,
+                        "zulassungstypHoeheresFsId": 26,
+                        "abschlussId": 4525,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "Admission restrictions unknown",
+                        "infotext": "Who has to apply for preliminary documentation (VPD)? \n<br> \n<br>All applicants for a Master's Degree who have obtained their university degree (e.g. a bachelor's degree) in a country \n<b>other than Germany. </b> \n<br>\n<br> \n<br>Information regarding the application process can be found here: https://ukoeln.de/RCCXV",
+                        "studienartName": "Unknown",
+                        "zulassungstypName": "Admission restrictions unknown",
+                        "studienformName": "",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Nordrhein-Westfalen",
+                        "studientypName": "unknown",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 262669,
+                        "hochschuleName": "Technische Hochschule Rosenheim",
+                        "studienfachName": "Angewandte Forschung und Entwicklung",
+                        "abschlussName": "Master",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1069,
+                        "standortId": 3796,
+                        "standortName": "Rosenheim",
+                        "bundeslandId": 2,
+                        "studiengangId": 47197,
+                        "studienfachId": 32128,
+                        "studienartId": 12,
+                        "studienformId": 32,
+                        "studientypId": 10,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 4657,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "<p></p>\n<p><b><span>Start of studies: </span></b><span>winter and summer semester<b></b></span></p> \n<p><b><span>Course language: </span></b><span>German and English</span></p> \n<p><span>You can apply for the preliminary review documentation (VPD) all year round and it is valid for one year after issue.</span></p> \n<p><span>You can find information about the degree program here: </span><a href=\"https://www.th-rosenheim.de/en/studies-and-further-education/courses-of-study/masters-degree-programmes/applied-research-and-development-in-the-engineering-sciences\" rel=\"nofollow\"><span>https://www.th-rosenheim.de/en/studies-and-further-education/courses-of-study/masters-degree-programmes/applied-research-and-development-in-the-engineering-sciences</span></a><span></span></p> \n<p><span>Please consider the special application procedure of Rosenheim Technical University of Applied Sciences. Uni-assist generates a preliminary review documentation (VPD) that you must upload together with your online application at TH Rosenheim. You can access the application portal here: </span><a href=\"https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces\" rel=\"nofollow\"><span>https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces</span></a><span></span></p>\n<br>\n<p></p>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "Consecutive Master's Course",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Bayern",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 262702,
+                        "hochschuleName": "Technische Hochschule Rosenheim",
+                        "studienfachName": "Angewandte Psychologie",
+                        "abschlussName": "Bachelor",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1069,
+                        "standortId": 3808,
+                        "standortName": "Mühldorf",
+                        "bundeslandId": 2,
+                        "studiengangId": 47242,
+                        "studienfachId": 32167,
+                        "studienartId": 12,
+                        "studienformId": 20,
+                        "studientypId": 10,
+                        "zulassungstypId": 6,
+                        "zulassungstypHoeheresFsId": 4,
+                        "abschlussId": 4660,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 1,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "Local admission restrictions (Orts-NC)",
+                        "infotext": "<p><b><span>Start of studies: </span></b><span>winter semester<b></b></span></p> \n<p><b><span>Course language: </span></b><span>German</span></p> \n<p><span>You can apply for the preliminary review documentation (VPD) all year round and it is valid for one year after issue.</span></p> \n<p><span>You can find information about the degree program here: </span><a href=\"https://www.th-rosenheim.de/studium-und-weiterbildung/studienangebot-der-th-rosenheim/bachelorstudiengaenge/angewandte-psychologie\" rel=\"nofollow\"><span>https://www.th-rosenheim.de/studium-und-weiterbildung/studienangebot-der-th-rosenheim/bachelorstudiengaenge/angewandte-psychologie</span></a><span></span></p> \n<p><span>Please consider the special application procedure of Rosenheim Technical University of Applied Sciences. Uni-assist generates a preliminary review documentation (VPD) that you must upload together with your online application at TH Rosenheim. You can access the application portal here: </span><span><a href=\"https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces\" rel=\"nofollow\"><span>https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces</span></a></span><span><span></span></span></p> \n<p><span>&nbsp;</span></p>\n<br>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "Nationwide admission restrictions (zentraler NC)",
+                        "studienformName": "First Degree",
+                        "abschlussgruppeName": "Bachelor",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Bayern",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 262615,
+                        "hochschuleName": "Hochschule Darmstadt",
+                        "studienfachName": "Animation and Game",
+                        "abschlussName": "Bachelor",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 312,
+                        "standortId": 837,
+                        "standortName": "Dieburg",
+                        "bundeslandId": 7,
+                        "studiengangId": 72,
+                        "studienfachId": 432,
+                        "studienartId": 12,
+                        "studienformId": 20,
+                        "studientypId": 10,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 37,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": 3469,
+                        "abschlussgruppeId": 1,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "<div> \n <b>!&nbsp;<a href=\"https://ag.mediencampus.h-da.de/wp-content/uploads/sites/31/2024/01/AG_ApplicationGuidelines_2024_International.pdf\" rel=\"nofollow\">Information regarding the application procedure</a>&nbsp;!</b> \n <br> \n</div> \n<div> \n <br> \n</div> \n<div> \n <div> \n  <a href=\"https://ag.mediencampus.h-da.de/international-applicants\" rel=\"nofollow\">Information for the study program</a> (Application only possible for one specialization)\n  <br>\n </div> \n <div> \n  <br> \n  <b><a href=\"https://ag.mediencampus.h-da.de/\" rel=\"nofollow\"></a></b> \n </div> \n <div> \n  <a href=\"https://ag.mediencampus.h-da.de/\" rel=\"nofollow\">Faculty's website</a> \n </div> \n</div> \n<div> \n <b><br></b> \n</div> \n<div></div> \n<div> \n <b><u></u>Application for a higher semester:</b> \n</div> \n<div>\n  Please hand in: up-to-date overview of all services provided, including all examination attempts and the number of credit points acquired, in the form of an original printout of your university \n</div>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "First Degree",
+                        "abschlussgruppeName": "Bachelor",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Hessen",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "Art & Design",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 262618,
+                        "hochschuleName": "Hochschule Darmstadt",
+                        "studienfachName": "Animation and Game",
+                        "abschlussName": "Bachelor",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 312,
+                        "standortId": 362,
+                        "standortName": "Darmstadt",
+                        "bundeslandId": 7,
+                        "studiengangId": 50791,
+                        "studienfachId": 432,
+                        "studienartId": 12,
+                        "studienformId": 20,
+                        "studientypId": 10,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 37,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": 3472,
+                        "abschlussgruppeId": 1,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "<div> \n <b>!&nbsp;<a href=\"https://ag.mediencampus.h-da.de/wp-content/uploads/sites/31/2024/01/AG_ApplicationGuidelines_2024_International.pdf\" rel=\"nofollow\">Information regarding the application procedure</a>&nbsp;!</b> \n <br> \n</div> \n<div> \n <br> \n</div> \n<div> \n <div> \n  <a href=\"https://ag.mediencampus.h-da.de/international-applicants\" rel=\"nofollow\">Information for the study program</a> (Application only possible for one specialization) \n </div> \n <div> \n  <br> \n  <b><a href=\"https://ag.mediencampus.h-da.de/\" rel=\"nofollow\"></a></b> \n </div> \n <div> \n  <a href=\"https://ag.mediencampus.h-da.de/\" rel=\"nofollow\">Faculty's website</a> \n </div> \n</div> \n<div> \n <b><br></b> \n</div> \n<div></div> \n<div> \n <b><u></u>Application for a higher semester:</b> \n</div> \n<div>\n  Please hand in: up-to-date overview of all services provided, including all examination attempts and the number of credit points acquired, in the form of an original printout of your university \n</div>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "First Degree",
+                        "abschlussgruppeName": "Bachelor",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Hessen",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "Technology",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 262705,
+                        "hochschuleName": "Technische Hochschule Rosenheim",
+                        "studienfachName": "Applied Artificial Intelligence",
+                        "abschlussName": "Bachelor",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1069,
+                        "standortId": 3796,
+                        "standortName": "Rosenheim",
+                        "bundeslandId": 2,
+                        "studiengangId": 47245,
+                        "studienfachId": 32170,
+                        "studienartId": 12,
+                        "studienformId": 20,
+                        "studientypId": 10,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 4660,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 1,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "<p><b><span>Start of studies: </span></b><span>winter semester</span></p> \n<p><b><span>Course language: </span></b><span>English</span></p> \n<p><span>You can apply for the preliminary review documentation (VPD) all year round and it is valid for one year after issue.</span></p> \n<p><span>You can find information about the degree program here: </span><a href=\"https://www.th-rosenheim.de/en/studies-and-further-education/courses-of-study/bachelors-degree-programmes/applied-artificial-intelligence\" rel=\"nofollow\"><span>https://www.th-rosenheim.de/en/studies-and-further-education/courses-of-study/bachelors-degree-programmes/applied-artificial-intelligence</span></a><span></span></p> \n<span>Please consider the special application procedure of Rosenheim Technical University of Applied Sciences. Uni-assist generates a preliminary review documentation (VPD) that you must upload together with your online application at TH Rosenheim. You can access the application portal here: </span>\n<span><a href=\"https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces\" rel=\"nofollow\"><span>https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces</span></a></span>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "First Degree",
+                        "abschlussgruppeName": "Bachelor",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Bayern",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 14,
+                                "name": "3rd semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 3
+                            }
+                        ],
+                        "id": 263023,
+                        "hochschuleName": "Carl von Ossietzky Universität Oldenburg",
+                        "studienfachName": "Applied Economics and Data Science",
+                        "abschlussName": "Master",
+                        "bewerbungsfreigabe": false,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 82,
+                        "standortId": 88,
+                        "standortName": "Oldenburg",
+                        "bundeslandId": 9,
+                        "studiengangId": 46393,
+                        "studienfachId": 31672,
+                        "studienartId": 12,
+                        "studienformId": 32,
+                        "studientypId": 10,
+                        "zulassungstypId": 26,
+                        "zulassungstypHoeheresFsId": 26,
+                        "abschlussId": 1841,
+                        "fachbelegungsartId": 24,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "Admission restrictions unknown",
+                        "infotext": "<div>\n  Find more information here: \n <a href=\"https://uol.de/en/stud/619\" rel=\"nofollow\">https://uol.de/en/stud/619</a> \n</div> \n<div> \n <br> \n</div> \n<div> \n <i> The language of instruction is <b>English</b>. (Knowledge of German is not required for admission). </i> \n <br> \n</div>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "Admission restrictions unknown",
+                        "studienformName": "Consecutive Master's Course",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Niedersachsen",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            }
+                        ],
+                        "id": 261334,
+                        "hochschuleName": "Universität Paderborn",
+                        "studienfachName": "Applied Neurosciences in Sports & Exercise",
+                        "abschlussName": "Master of Science",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 56,
+                        "standortId": 60,
+                        "standortName": "Paderborn",
+                        "bundeslandId": 10,
+                        "studiengangId": 29885,
+                        "studienfachId": 22933,
+                        "studienartId": 12,
+                        "studienformId": 32,
+                        "studientypId": 10,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 3197,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "<p><span>The Applied Neurosciences in Sports &amp; Exercise master degree at University of Paderborn is taught in English and only starts in winter semester. The <a href=\"https://sug.uni-paderborn.de/en/studium/sportwissenschaft/anse\" rel=\"nofollow\"><b>faculty</b></a> provides the information content, structure and scope of the program whereas the <a href=\"https://www.uni-paderborn.de/en/studies/international-students/bewerbungsverfahren-fristen/einzureichende-unterlagen\" rel=\"nofollow\"><b>International office</b></a> shares information about application formalities and deadlines. </span></p> \n<span>Details on consultation by e-mail or phone are available <a href=\"https://www.uni-paderborn.de/en/studies/international-office/degree-students/contact\" rel=\"nofollow\"><b>here</b></a>.</span>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "Consecutive Master's Course",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Nordrhein-Westfalen",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            }
+                        ],
+                        "id": 262165,
+                        "hochschuleName": "Hochschule Anhalt",
+                        "studienfachName": "Architecture (DIA)",
+                        "abschlussName": "Master",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 537,
+                        "standortId": 805,
+                        "standortName": "Dessau",
+                        "bundeslandId": 14,
+                        "studiengangId": 16977,
+                        "studienfachId": 18793,
+                        "studienartId": 12,
+                        "studienformId": 68,
+                        "studientypId": 10,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 2825,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 4,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "<p>All necessary information about this degree program as well as the admission requirements can be found on the <a href=\"https://www.hs-anhalt.de/studieren/orientierung/studienangebot/detail/architecture-dia-master-of-arts.html\" rel=\"nofollow\">webpage</a> of the degree program. </p> \n<p> </p> \n<p><b>Please note:</b> For international students the application takes place exclusively online via uni-assist e.V.. Please submit your documents as an upload here. After successful evaluation and verification, you will automatically be registered in Anhalt University of Applied Sciences SSC applicant portal. An additional application at Anhalt University of Applied Sciences is therefore not necessary.</p> \n<p><span></span></p>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "",
+                        "abschlussgruppeName": "Master",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Sachsen-Anhalt",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 262708,
+                        "hochschuleName": "Technische Hochschule Rosenheim",
+                        "studienfachName": "Architektur",
+                        "abschlussName": "Bachelor",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 1069,
+                        "standortId": 3796,
+                        "standortName": "Rosenheim",
+                        "bundeslandId": 2,
+                        "studiengangId": 47248,
+                        "studienfachId": 32173,
+                        "studienartId": 12,
+                        "studienformId": 20,
+                        "studientypId": 10,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 4660,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 1,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "<p><b><span>Start of studies: </span></b><span>winter semester<b></b></span></p> \n<p><b><span>Course language: </span></b><span>German and English</span></p> \n<p><span>You can apply for the preliminary review documentation (VPD) all year round and it is valid for one year after issue.</span></p> \n<p><span>You can find information about the degree program here: </span><a href=\"https://www.th-rosenheim.de/en/studies-and-further-education/courses-of-study/bachelors-degree-programmes/architecture\" rel=\"nofollow\"><span>https://www.th-rosenheim.de/en/studies-and-further-education/courses-of-study/bachelors-degree-programmes/architecture</span></a><span></span></p> \n<p><span>Please consider the special application procedure of Rosenheim Technical University of Applied Sciences. Uni-assist generates a preliminary review documentation (VPD) that you must upload together with your online application at TH Rosenheim. You can access the application portal here: </span><a href=\"https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces\" rel=\"nofollow\"><span>https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces</span></a><span></span></p>\n<br>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "First Degree",
+                        "abschlussgruppeName": "Bachelor",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Bayern",
+                        "studientypName": "Full-time",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    },
+                    {
+                        "moeglicheFachsemester": [
+                            {
+                                "id": 12,
+                                "name": "1st semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 1
+                            },
+                            {
+                                "id": 22,
+                                "name": "Higher semester",
+                                "semesterTyp": "WINTERSEMESTER",
+                                "ordnungszahl": 99
+                            }
+                        ],
+                        "id": 256402,
+                        "hochschuleName": "Hochschule 21",
+                        "studienfachName": "Architektur DUAL",
+                        "abschlussName": "Bachelor of Engineering",
+                        "bewerbungsfreigabe": true,
+                        "semesterId": 52,
+                        "semesterStart": null,
+                        "standardSemester": false,
+                        "uaZustaendig": true,
+                        "dosv": false,
+                        "hochschuleId": 102,
+                        "standortId": 108,
+                        "standortName": "Buxtehude",
+                        "bundeslandId": 9,
+                        "studiengangId": 8096,
+                        "studienfachId": 10161,
+                        "studienartId": 12,
+                        "studienformId": 20,
+                        "studientypId": 18,
+                        "zulassungstypId": 8,
+                        "zulassungstypHoeheresFsId": 8,
+                        "abschlussId": 1731,
+                        "fachbelegungsartId": 14,
+                        "schwerpunktId": null,
+                        "vertiefungId": null,
+                        "abschlussgruppeId": 1,
+                        "semesterName": "Winter Semester 2024/2025",
+                        "zulassungstypHoeheresFsName": "No admission restrictions (NC-frei)",
+                        "infotext": "<p>Applications for Architecture DUAL can be submitted online from October 1 until February 28 for a course beginning in the winter semester of the same year. There is a special admission procedure for Architecture DUAL. More details about the online application please find under <a href=\"https://campus.hs21.de/campus/application/applicationStart.asp\" rel=\"nofollow\">Studieninteressierte - Online-Bewerbung (hs21.de)</a>. All our courses are offered in German language.&nbsp; <br></p> \n<br>",
+                        "studienartName": "In-Class Study Course",
+                        "zulassungstypName": "No admission restrictions (NC-frei)",
+                        "studienformName": "First Degree",
+                        "abschlussgruppeName": "Bachelor",
+                        "teilstudiengangTyp": "",
+                        "bundeslandName": "Niedersachsen",
+                        "studientypName": "Combined/Dual Internship and Undergraduate Degree Course",
+                        "vertiefungName": "",
+                        "schwerpunktName": "",
+                        "fachbelegungsartName": "Major subject",
+                        "teilstudiengang": false
+                    }
+                ]
+            }
+        ]
+    }
+}
