@@ -3,7 +3,7 @@ config = {
     "auth_url" : "https://mya-backend.uni-assist.de/services/nutzer/login",
     "data_payload" : {
     "start": 0,
-    "limit": 720,
+    "limit": 2000,
     "filter": {
         "volltext": "",
         "semester": [52],
